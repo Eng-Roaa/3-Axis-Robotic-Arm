@@ -78,12 +78,13 @@ A homing procedure was implemented to establish a known starting position for th
 ## 📷 Project Media
 
 Project images and videos are available in the `Media` folder.
-
+## Project folder 
+https://drive.google.com/drive/folders/1BX63QARXNgKYTxejPRE_PfMLZ1nxZJ7M?usp=drive_link
 
 ## 🎥 Project Demonstration
 
 A demonstration video of the robotic arm will be added here.
-https://drive.google.com/drive/folders/10Cz3ImMv13ZFwMWTIXuQTBKANoYokAbD?usp=sharing
+https://drive.google.com/file/d/13j7fY6XMhpEBEr_zSgsBxvps_PN-o1Ip/view?usp=drive_link
 
 ## 🚀 Future Improvements
 
