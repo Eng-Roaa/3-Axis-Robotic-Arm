@@ -1,0 +1,5 @@
+The following messages were automatically dismissed when this file was opened
+
+File	Message	Response	
+Servo_Motor.SLDPRT	One or more features in this part are based on other documents. If those documents have changed, they should be opened now to properly update this part.	Open any documents which have changed
+
