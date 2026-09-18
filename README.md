@@ -78,8 +78,7 @@ A homing procedure was implemented to establish a known starting position for th
 ## 📷 Project Media
 
 Project images and videos are available in the `Media` folder.
-## Project folder 
-https://drive.google.com/drive/folders/1BX63QARXNgKYTxejPRE_PfMLZ1nxZJ7M?usp=drive_link
+
 
 ## 🎥 Project Demonstration
 
